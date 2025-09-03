@@ -1,0 +1,23 @@
+[33mcommit 1e72147f1b8a36292c8fafb8d32cf4800543b649[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mdev[m[33m)[m
+Author: aruntsc <arun.tsc@gmail.com>
+Date:   Wed Sep 3 10:56:04 2025 +0930
+
+    added on local Branch dev
+
+[33mcommit 1bfba8486e3113aca5312430d370a502917ca7b6[m[33m ([m[1;32mlist[m[33m)[m
+Author: aruntsc <arun.tsc@gmail.com>
+Date:   Wed Sep 3 10:49:21 2025 +0930
+
+    Create readmetest.txt
+
+[33mcommit 261bb79ed9da5a32360a3bc1f2331b378e267773[m
+Author: aruntsc <arun.tsc@gmail.com>
+Date:   Tue Sep 2 21:31:29 2025 +0930
+
+    added raed me file
+
+[33mcommit 78e84b092356b356e0f36167d1f7e7d80c515552[m
+Author: aruntsc <arun.tsc@gmail.com>
+Date:   Tue Sep 2 21:28:31 2025 +0930
+
+    Added in git version control system
